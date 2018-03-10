@@ -138,7 +138,7 @@
             id: '1x-text'
         }, {
             name: 'TREX',
-            id: '1x-trex'
+            id: 'carai'
         }],
         HDPI: [{
             name: 'CACTUS_LARGE',
@@ -160,7 +160,7 @@
             id: '2x-text'
         }, {
             name: 'TREX',
-            id: '2x-trex'
+            id: 'carai'
         }]
     };
 
